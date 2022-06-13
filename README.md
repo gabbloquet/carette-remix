@@ -2,7 +2,13 @@
 
 ![The Remix Blues Stack](https://repository-images.githubusercontent.com/461012689/37d5bd8b-fa9c-4ab0-893c-f0a199d5012d)
 
-First interesting thing, we can choose the way to deploy :
+## Notes
+
+Initialization : `npx create-remix@latest` ([doc](https://remix.run/docs/en/v1))
+
+interesting things :
+ - With basic init : We can choose a server framework (picture bellow)
+ - With production initialization : We can choose an [initial stack](https://remix.run/docs/en/v1/pages/stacks)
 
 ![Deploy server configuration](./doc/deploy_server.png)
 
